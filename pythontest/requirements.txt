@@ -2,7 +2,7 @@ fiona==1.8.13.post1
 appnope==0.1.0
 backcall==0.1.0
 beautifulsoup4==4.6.3
-bleach==2.1.4
+bleach==3.3.0
 certifi==2018.8.24
 chardet==3.0.4
 Click==7.0
@@ -17,4 +17,4 @@ gtfs-realtime-bindings==0.0.5
 html5lib==1.0.1
 idna==2.7
 ipykernel==5.0.0
-ipython==7.1.1
+ipython==7.16.3
